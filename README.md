@@ -1,3 +1,1 @@
-# To download files 
-Please visit ``` https://github.com/rpvq/Stockfish-awa
-```
+# What is it ```Stockfish-awa```
