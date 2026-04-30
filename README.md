@@ -1,4 +1,4 @@
-## What is it ```Stockfish-awa``` !!
+## What is it ```Stockfish-awa``` !! 
 In short, it's a version of a tool Stockfish
 The difference is that it's easier to operate. 
 You can run it with a graphical interface. 
