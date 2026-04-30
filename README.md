@@ -18,3 +18,9 @@ It will generate a key for you api
 What's inside when you open the website 
 Which browser from this link 
 ```http://127.0.0.1:7531```
+Inside you will be born ،api key,
+You will need it to log in inside 
+``` http://127.0.0.1:7531 ```
+Log in and you will be able to play 
+By playing chess with ```Stockfish```
+Directly from your browser (locally) 
